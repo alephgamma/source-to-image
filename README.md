@@ -1,4 +1,4 @@
-# Simple repo to test Source-To-Image deployments
+# Simple repo for S2I deployments
 
 ## 1. php-helloword
 
