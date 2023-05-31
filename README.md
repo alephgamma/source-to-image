@@ -4,6 +4,6 @@
 
 Simple index.html
 
-## 2. php-helloword
+## 2. php-helloworld
 
 Simple index.php
