@@ -6,7 +6,10 @@ Simple index.html
 
 ## 2. nginx-helloworld
 
-Simple webpage served from nginx, but it requires changes from port 80->8080 in /etc/nginx/nginx.conf using a Dockerfile
+Simple webpage served from nginx
+
+* But it requires changes from port 80->8080 in /etc/nginx/nginx.conf using a Dockerfile
+* Without a Dockerfile there's an message: "error: No language matched the source repository"
 
 ## 3. php-helloworld
 
