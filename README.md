@@ -1,4 +1,4 @@
-# Simple repo for S2I deployments
+# Simple repo for S2I deployment testing
 
 ## 1. http-helloworld
 
