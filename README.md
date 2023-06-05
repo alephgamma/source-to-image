@@ -4,7 +4,7 @@
 
 Simple index.html
 
-* Also errors out without Language Detection
+* Also errors without Language Detection: "error: No language matched the source repository"
 
 ## 2. nginx-helloworld
 
